@@ -13,4 +13,6 @@ import { AppComponent } from './app.component';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule { 
+  title = 'Curso de Angula de Victor Robles WEB'
+}

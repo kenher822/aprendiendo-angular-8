@@ -5,6 +5,6 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-  title = 'aprendiendo-angular';
+export class AppComponent { 
+  public title = 'Curso de Angula de Victor Robles WEB';
 }
